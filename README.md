@@ -37,9 +37,13 @@ The following animation demonstrates the application functionality:
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
 # homework-week-5-day-planner
+<<<<<<< HEAD
 # homework-week-5-day-planner
 # homework-week-5-day-planner
 # homework-week-5-day-planner
 # homework-week-5-day-planner
 # homework-week-5-day-planner
+# homework-week-5-day-planner
+=======
+>>>>>>> 0b168cdcb7719ded56d8b2aad063ed5d259d8065
 # homework-week-5-day-planner
